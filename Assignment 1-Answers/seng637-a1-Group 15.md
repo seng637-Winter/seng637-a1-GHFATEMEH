@@ -177,4 +177,4 @@ After completing these tasks, we collectively reviewed all issues to ensure thei
 
 # Comments/Feedback on the lab and lab document
 
-The lab's documentation could improve in coherence and enhancements in guidance making it more clear and beneficial for students. For example, the table of contents does not align perfectly with the structure of the report sections. Sections like "Comments and Feedback" are present in the report but are not listed in the table of contents, leading to some confusion.
+The lab's documentation could improve in coherence and enhancements in guidance making it more clear and beneficial for students. For example, the table of contents does not align perfectly with the structure of the report sections. Sections like "Comments and Feedback" are present in the report but are not listed in the table of contents, leading to some confusion. Another example, the first sentence in step 5 of Regression Testing is unclear.
