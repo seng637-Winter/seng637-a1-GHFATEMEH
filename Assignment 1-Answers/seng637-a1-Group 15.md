@@ -154,6 +154,7 @@ Based on the feedback, we transitioned to using Jira's Epic feature to categoriz
 
 ### Impact:
 Adopting Epics for bug categorization has significantly improved our project management workflow, offering a clearer, more efficient way to track and address bugs. This method has enhanced team productivity and streamlined issue resolution processes.
+
 ![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/jira-board.png)
 
 
@@ -190,6 +191,7 @@ After completing these tasks, we collectively reviewed all issues to ensure thei
 # Insights from Bug Report Analytics
 
 The pie chart titled "Bugs Reported by Status" provides a visual breakdown of the current states of bug reports. It shows that the majority (59%) of the bugs have been resolved, indicating effective issue resolution processes within the team. However, there remains a significant portion (28%) of newly reported bugs, suggesting ongoing testing and identification of issues. The smallest segment (13%) represents bugs that have not yet been fixed, which could either be due to lower priority, more complex issues, or those requiring additional information. This distribution offers a snapshot of the project's health in terms of software quality assurance and highlights areas that may need further attention or resources.
+
 ![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/Bugs%20reported%20by%20status.png)
 
 # Comments/Feedback on the lab and lab document
