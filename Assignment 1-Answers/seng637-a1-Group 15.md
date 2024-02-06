@@ -29,7 +29,9 @@ divided	1](#_Toc439194681)
 [6 Difficulties encountered, challenges overcome, and lessons
 learned	1](#_Toc439194682)
 
-[7 Comments/Feedback on the lab and lab document 1](#_Toc439194683)
+[7 Insights from Bug Report Analytics 1](#_Toc439194683)
+
+[8 Comments/Feedback on the lab and lab document 1](#_Toc439194684)
 
 # Introduction
 
@@ -184,6 +186,10 @@ After completing these tasks, we collectively reviewed all issues to ensure thei
 - In exploratory testing, we cannot find all the bugs in the system because tests are designed and executed at the same time. However, in scripted testing, as we have a scenario and test case, we can check all the scenarios.
 
 - Additionally, understanding the importance of teamwork, working collaboratively, using diverse perspectives, and sharing knowledge was crucial in overcoming the challenges we faced.
+  
+# Insights from Bug Report Analytics
+
+The pie chart titled "Bugs Reported by Status" provides a visual breakdown of the current states of bug reports. It shows that the majority (59%) of the bugs have been resolved, indicating effective issue resolution processes within the team. However, there remains a significant portion (28%) of newly reported bugs, suggesting ongoing testing and identification of issues. The smallest segment (13%) represents bugs that have not yet been fixed, which could either be due to lower priority, more complex issues, or those requiring additional information. This distribution offers a snapshot of the project's health in terms of software quality assurance and highlights areas that may need further attention or resources.
 
 # Comments/Feedback on the lab and lab document
 
