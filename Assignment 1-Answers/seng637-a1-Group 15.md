@@ -196,7 +196,11 @@ The pie chart titled "Bugs Reported by Status" provides a visual breakdown of th
 
 The chart "Bugs Reported by Priority" displays the urgency levels of logged bugs. Most bugs are marked with medium priority, indicating a steady workflow for the team. High and highest priority bugs are fewer, suggesting good system stability or effective issue prevention. Low priority items are minimal, and likely not affect the system's overall performance significantly.
 
+![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/Picture2.png)
+
 The "Bugs Reported by Reporter" chart shows individual contribution levels to bug reporting. A couple of team members have identified the majority of bugs, possibly indicating areas of the system they're focused on or their roles in testing. Others have reported fewer bugs, which could reflect different responsibilities or less interaction with the testing process. This visualization helps in assessing team engagement and could inform resource allocation for testing activities.
+
+![Jira Board]()
 
 # Comments/Feedback on the lab and lab document
 
