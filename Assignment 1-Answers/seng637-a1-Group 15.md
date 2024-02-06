@@ -15,7 +15,7 @@
 
 **Table of Contents**
 
-[1 Introduction	1](#_Toc439194677)
+[1 Introduction](#Introduction)
 
 [2 High-level description of the exploratory testing plan	1](#_Toc439194678)
   
