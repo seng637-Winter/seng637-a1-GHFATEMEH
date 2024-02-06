@@ -15,21 +15,14 @@
 
 **Table of Contents**
 
-1 Introduction
-
-2 High-level description of the exploratory testing plan
-  
-3 Comparison of exploratory and manual functional testing
-
-4 Notes and discussion of the peer reviews of defect reports
-
-5 How the pair testing was managed and team work/effort was divided
-
-6 Difficulties encountered, challenges overcome, and lessons learned
-
-7 Insights from Bug Report Analytics
-
-8 Comments/Feedback on the lab and lab document
+1. Introduction
+2. High-level description of the exploratory testing plan
+3. Comparison of exploratory and manual functional testing
+4. Notes and discussion of the peer reviews of defect reports
+5. How the pair testing was managed and team work/effort was divided
+6. Difficulties encountered, challenges overcome, and lessons learned
+7. Insights from Bug Report Analytics
+8. Comments/Feedback on the lab and lab document
 
 # Introduction
 
