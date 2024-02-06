@@ -198,10 +198,6 @@ The chart "Bugs Reported by Priority" displays the urgency levels of logged bugs
 
 ![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/Picture2.png)
 
-The "Bugs Reported by Reporter" chart shows individual contribution levels to bug reporting. A couple of team members have identified the majority of bugs, possibly indicating areas of the system they're focused on or their roles in testing. Others have reported fewer bugs, which could reflect different responsibilities or less interaction with the testing process. This visualization helps in assessing team engagement and could inform resource allocation for testing activities.
-
-![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/Picture3.png)
-
 # Comments/Feedback on the lab and lab document
 
 The lab's documentation could improve in coherence and enhancements in guidance making it more clear and beneficial for students. For example, the table of contents does not align perfectly with the structure of the report sections. Sections like "Comments and Feedback" are present in the report but are not listed in the table of contents, leading to some confusion. Another example, the first sentence in step 5 of Regression Testing is unclear.
