@@ -200,7 +200,7 @@ The chart "Bugs Reported by Priority" displays the urgency levels of logged bugs
 
 The "Bugs Reported by Reporter" chart shows individual contribution levels to bug reporting. A couple of team members have identified the majority of bugs, possibly indicating areas of the system they're focused on or their roles in testing. Others have reported fewer bugs, which could reflect different responsibilities or less interaction with the testing process. This visualization helps in assessing team engagement and could inform resource allocation for testing activities.
 
-![Jira Board]()
+![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/Picture3.png)
 
 # Comments/Feedback on the lab and lab document
 
