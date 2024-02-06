@@ -70,8 +70,7 @@ Before this lab, we learned about exploratory and manual functional testing in t
 **Functionality:**
 - Approval must be obtained from the bank before cash is dispensed.
 - Approval must be obtained from the bank before physically accepting the envelope.
-- Approval must be obtained from the bank before any transaction.
-- Sending a message indicating that the customer has deposited the envelope.
+- Sending a message to the back indicating that the customer has deposited the envelope.
 - Removing envelopes after shutdown.
   
 **User Interfaces (UI):**
@@ -120,6 +119,17 @@ After becoming familiar with the ATM system and writing the test plan, dividing 
 For comparing exploratory testing and manual testing in our ATM project, we had a set of 40 tests that helped us deeply understand the system's issues. These tests were great for checking both old and new versions of our ATM, helping us see which bugs got fixed. Unlike exploratory testing, which missed some system parts, manual testing was way more organized and useful. With manual testing, we had clear steps and knew exactly what to test, making it easier to spot and note down bugs properly. This method kept us organized, especially when testing in a specific order, which helped us avoid wrongly calling something a bug. The lack of details in exploratory testing makes it harder to track and report bugs accurately. Plus, manual testing prevented us from repeating work or missing bugs, a common issue with exploratory testing where we often had to redo tests to confirm bugs. Furthermore, manual testing proved to be more reliable and efficient, giving us a clear roadmap for testing the ATM system. Though exploratory testing was less systematic, it did help us get a good feel for the system's operation and user interface, which was beneficial for running the manual tests later on.
 
 # Notes and discussion of the peer reviews of defect reports
+
+## Enhanced Defect Reporting through Specific Scenario Logging
+
+### Feedback:
+Initially, our defect logging process grouped multiple scenarios under a single bug report. For example, a single report might cover incorrect withdrawal amounts across different account types and amounts. This approach, while streamlined, was found to obscure the specific details necessary for accurately tracking and resolving each unique scenario.
+
+### Actionable Item:
+In response to this feedback, we decided to refine our approach to logging defects. We agreed to create separate bug reports for each account type and withdrawal amount. This change aimed to isolate and address the specifics of each scenario, capturing detailed expected and actual results.
+
+### Impact:
+This revised approach significantly enhanced the clarity and utility of our defect reports. By providing a distinct report for each scenario, we improved the specificity of our tracking and resolution processes. This not only facilitated more effective communication within the team but also allowed for more accurate prioritization and resolution of defects. The adoption of a more granular and scenario-specific reporting method marked a positive step towards more efficient and effective defect management.
 
 ## Clarity on Bug ID Naming Convention
 
