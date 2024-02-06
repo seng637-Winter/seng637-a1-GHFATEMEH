@@ -142,7 +142,7 @@ Based on the feedback, we transitioned to using Jira's Epic feature to categoriz
 
 ### Impact:
 Adopting Epics for bug categorization has significantly improved our project management workflow, offering a clearer, more efficient way to track and address bugs. This method has enhanced team productivity and streamlined issue resolution processes.
-![Jira Board](https://github.com/GHFATEMEH/SENG-637-Assignment-1/blob/main/resources/jira-board.png)
+![Jira Board](https://github.com/seng637-Winter/seng637-a1-GHFATEMEH/blob/main/Assignment%201-Answers/resources/jira-board.png)
 
 
 # How the pair testing was managed and team work/effort was divided 
