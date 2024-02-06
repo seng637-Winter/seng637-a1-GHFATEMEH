@@ -179,11 +179,11 @@ After completing these tasks, we collectively reviewed all issues to ensure thei
 
 
 ## Lessons Learned:
-- The importance of thoroughly understanding the instructions and requirements before beginning testing, which can significantly save time and write effective bug reports within a chosen reporting system.
+- The importance of thoroughly understanding the instructions and requirements before beginning testing, can significantly save time and write effective bug reports within a chosen reporting system.
   
 - In exploratory testing, we cannot find all the bugs in the system because tests are designed and executed at the same time. However, in scripted testing, as we have a scenario and test case, we can check all the scenarios.
 
-- Additionally, understanding the importance of teamwork. Working collaboratively, using diverse perspectives, and sharing knowledge was crucial in overcoming the challenges we faced.
+- Additionally, understanding the importance of teamwork, working collaboratively, using diverse perspectives, and sharing knowledge was crucial in overcoming the challenges we faced.
 
 # Comments/Feedback on the lab and lab document
 
