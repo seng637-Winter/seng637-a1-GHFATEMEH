@@ -173,7 +173,7 @@ After completing these tasks, we collectively reviewed all issues to ensure thei
 - Selecting an appropriate issue tracking system also posed a challenge. We had to evaluate the features of platforms like Jira and Azure DevOps to determine which best suited our workflow. Choosing between Jira and Azure DevOps, we compared their features in-depth, considering our project needs and team preferences, and finally selecting the Jira that aligned best with our workflow.
 - Learning How to Use Jira was challenging At first. using Jira with all its features seemed a bit complex for our team. But as we spent more time with it, figuring out how to manage tasks and track our project got easier. We learned how to set up our work and keep everything organized. 
 - Although we had established a defect report format, consistently Sticking to it proved difficult. The challenge was not in creating a standard format but in ensuring everyone followed it precisely.
-- Prioritizing bug fixes involved an evaluation of their impact, was managed by assessing their potential impact on users and the system, fixing critical ones first.
+- Prioritizing bug fixes involved an evaluation of their impact, which was managed by assessing their potential impact on users and the system, fixing critical ones first.
 - While conducting exploratory testing on the system, we did not have all of the detailed requirements of the system and  we encountered cases where we were unsure whether certain issues were bugs or not. For instance, Card 1 has Checking and Savings accounts, but the system also presents a Money Market Note as an option.
 
 
