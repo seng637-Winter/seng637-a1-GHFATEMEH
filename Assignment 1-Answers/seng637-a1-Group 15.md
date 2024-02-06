@@ -50,7 +50,7 @@ Before this lab, we learned about exploratory and manual functional testing in t
 | Module Name | Applicable Rules  | Description |
 | --- | --- | --- |
 | System Startup | Operator | The system is started up when the operator runs the operator switch to the “On” position. |
-| System Shutdown | Operator | The system shuts down when the operator makes sure that no Customer is using the machine, and then turns the operator switch off |
+| System Shutdown | Operator | The system shuts down when the operator makes sure that no Customer is using the machine, and then turns the operator switch off. |
 | Session | Customer | A session begins wjen the customer inserts his/her card into the card reader slot and ends when the card is ejected. |
 | Authentication (PIN + card Number) | Customer, Bank | Customer Inserts his Personal Identification Number (PIN) and the Card number and PIN will be sent to the bank for validation. |
 | Re-enter PIN | Bank | When a transaction is disapproved due to an invalid PIN, the customer re-enters the PIN and the request is sent to the bank. If the bank approves or disapproves for a different reason, the process continues; if not, the PIN re-entry repeats. |
